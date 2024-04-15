@@ -53,4 +53,6 @@ cd /Users/{USER}/.venv/share/jupyter/labextensions/jupyterlab-notebook-autosave
 
 ## Production install
 
-TODO
+```bash
+pip install jupyterlab-notebook-autosave
+```

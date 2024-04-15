@@ -1,5 +1,5 @@
 [data-command="custom:save"] {
-  background-color: #bbdefb;
+  background-color: rgb(147 209 255 / 40%);
   padding: 0px 2px;
 
   > svg {
