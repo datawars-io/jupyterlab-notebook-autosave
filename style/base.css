@@ -1,0 +1,8 @@
+[data-command="custom:save"] {
+  background-color: #bbdefb;
+  padding: 0px 2px;
+
+  > svg {
+    margin-right: 4px;
+  }
+}

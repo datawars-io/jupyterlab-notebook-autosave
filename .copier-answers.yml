@@ -1,0 +1,19 @@
+# Changes here will be overwritten by Copier; NEVER EDIT MANUALLY
+_commit: v4.2.6
+_src_path: https://github.com/jupyterlab/extension-template
+author_email: info@datawars.io
+author_name: datawars.io
+data_format: string
+file_extension: ''
+has_binder: false
+has_settings: true
+kind: frontend
+labextension_name: jupyterlab-notebook-autosave
+mimetype: ''
+mimetype_name: ''
+project_short_description: A JupyterLab extension that will autosave your open Notebook.
+python_name: jupyterlab_notebook_autosave
+repository: https://github.com/datawars-io/jupyterlab-notebook-autosave
+test: false
+viewer_name: ''
+

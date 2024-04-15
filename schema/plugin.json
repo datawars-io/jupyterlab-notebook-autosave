@@ -1,0 +1,29 @@
+{
+  "title": "JupyterLab Notebook autosave",
+  "description": "JupyterLab Notebook autosave settings.",
+  "type": "object",
+  "properties": {
+    "autosaveInterval": {
+      "type": "number",
+      "title": "Default Autosave interval",
+      "description": "Length of save interval in seconds.",
+      "default": 15
+    }
+  },
+  "additionalProperties": false,
+  "jupyter.lab.shortcuts": [],
+  "jupyter.lab.toolbars": {
+    "Notebook": [
+      {
+        "name": "save",
+        "disabled": true
+      },
+      {
+        "name": "custom-save",
+        "icon": "ui-components:save",
+        "label": "Save changes",
+        "command": "custom:save"
+      }
+    ]
+  }
+}
